@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alenoghena Benjamin 
+- 👋 Hi, I’m Alen Benjamin 
 - 👀 I’m interested in backend, web development (PHP Laravel)
 - 🌱 I’m currently learning PHP Laravel and brownie (Etherum Blockchain)
 - 💞️ I’m looking to collaborate on PHP Laravel and ChainLink 
